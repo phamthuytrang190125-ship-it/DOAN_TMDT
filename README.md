@@ -8,14 +8,12 @@ Hệ thống bao gồm các chức năng cốt lõi: Quản lý vòng đời đ�
 *   **Backend:** FastAPI (Python).
 *   **Database:** PostgreSQL.
 
----
 
 ## 2. Yêu cầu hệ thống
 *   Python 3.9+
 *   PostgreSQL
 *   Trình duyệt web và Visual Studio Code (Live Server)
 
----
 
 ## 3. Hướng dẫn cài đặt và chạy dự án
 
